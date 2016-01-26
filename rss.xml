@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Roger Shaw]]></title>
         <description><![CDATA[Roger Shaw]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/roger-shaw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 23:31:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 18:47:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/roger-shaw/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Is inequality a moral challenge?]]></title>
+            <description><![CDATA[<article><h1>Is inequality a moral challenge?</h1><p>Inequality might just be the defining challenge of our time. However, is it a moral challenge? Veteran philosopher Harry Frankfurt says we're looking in the wrong place, as Joe Gelonesi writes. US President Barack Obama declared it the defining issue of our times.</p><img src="http://www.abc.net.au/radionational/image/6779640-1x1-700x700.jpg"></article>]]></description>
+            <link>http://www.abc.net.au/radionational/programs/philosopherszone/is-inequality-a-moral-challenge/6779632</link>
+            <guid isPermaLink="false">3165280e-fac1-45b2-bd90-84f7bcdfb591</guid>
+            <pubDate>Tue, 26 Jan 2016 18:47:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>My photo</p>]]></description>
-            <link>undefined6346dc61-2d67-4680-8d69-96554936801b/index.html</link>
+            <link>https://thegrid.ai/roger-shaw/6346dc61-2d67-4680-8d69-96554936801b/index.html</link>
             <guid isPermaLink="false">6346dc61-2d67-4680-8d69-96554936801b</guid>
             <pubDate>Mon, 18 Jan 2016 23:31:29 GMT</pubDate>
         </item>

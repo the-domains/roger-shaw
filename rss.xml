@@ -4,11 +4,18 @@
         <description><![CDATA[Roger Shaw]]></description>
         <link>https://thegrid.ai/roger-shaw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 18:47:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 04:51:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/roger-shaw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Raspberry Pi * View topic - Lightweight python motion detection]]></title>
+            <description><![CDATA[<article><h1>Raspberry Pi * View topic - Lightweight python motion detection</h1><p>I have released a new version called pi-timolo (pi, timelapse, motion, lowlight) on my github repo https://github.com/pageauc per forum post below. This is written using the picamera python library. I have also included a pi-motion-lite for those who want a minimal picamera library python motion detection script for projects.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/afbad27ef60f9678039e023f63b33e1a8f1fd1a3.php"></article>]]></description>
+            <link>https://www.raspberrypi.org/forums/viewtopic.php?t=45235</link>
+            <guid isPermaLink="false">1e192c09-7261-4f23-b0f6-415e7f3d3635</guid>
+            <pubDate>Sat, 30 Jan 2016 04:51:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Is inequality a moral challenge?]]></title>
-            <description><![CDATA[<article><h1>Is inequality a moral challenge?</h1><p>Inequality might just be the defining challenge of our time. However, is it a moral challenge? Veteran philosopher Harry Frankfurt says we're looking in the wrong place, as Joe Gelonesi writes. US President Barack Obama declared it the defining issue of our times.</p><img src="http://www.abc.net.au/radionational/image/6779640-1x1-700x700.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Is inequality a moral challenge?</h1><p>Inequality might just be the defining challenge of our time. However, is it a moral challenge? Veteran philosopher Harry Frankfurt says we're looking in the wrong place, as Joe Gelonesi writes. US President Barack Obama declared it the defining issue of our times.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6a3ea770721b09eb1b4473fb3c18aad51d938e0.jpg"></article>]]></description>
             <link>http://www.abc.net.au/radionational/programs/philosopherszone/is-inequality-a-moral-challenge/6779632</link>
             <guid isPermaLink="false">3165280e-fac1-45b2-bd90-84f7bcdfb591</guid>
             <pubDate>Tue, 26 Jan 2016 18:47:07 GMT</pubDate>
